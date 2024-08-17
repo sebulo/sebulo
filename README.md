@@ -1,8 +1,11 @@
-# 👋 Hi, I’m Sebastian
-- 👀 I’m interested in Computer Vision and Machine Learning
-- 
-## My GitHub Stats
-![sebulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebulo&show_icons=true&theme=radical)
+# 👋 Hi, I’m @sebulo
 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=sebulo&color=blueviolet)
+## About Me
+I am a Computer Science Ph.D. student at the [University of Copenhagen](https://di.ku.dk/) and the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/), advised by [Michael J. Kastoryano](https://mkastoryano.com/) and [Serge Belongie](https://sergebelongie.github.io/). My research focuses on Machine Learning and Computer Vision, with broader interests in efficient machine learning and quantization methods.
+
+- 🌍 [Website](https://sebulo.github.io/)
+- 📧 [Email](mailto:sebastianloeschcke@gmail.com)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=_aM-ud8AAAAJ&hl=en)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-loeschcke/)
+- 🖥️ [GitHub](https://github.com/sebulo/)
+- 🐦 [Twitter](https://twitter.com/sloeschcke)
