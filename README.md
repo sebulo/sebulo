@@ -8,7 +8,6 @@ I am a Computer Science Ph.D. student at the [University of Copenhagen](https://
         📧 <a href="mailto:sebastianloeschcke@gmail.com">Email</a> |
         🎓 <a href="https://scholar.google.com/citations?user=_aM-ud8AAAAJ&hl=en">Google Scholar</a> |
         💼 <a href="https://www.linkedin.com/in/sebastian-loeschcke/">LinkedIn</a> |
-        🖥️ <a href="https://github.com/sebulo/">GitHub</a> |
         🐦 <a href="https://twitter.com/sloeschcke">Twitter</a>
       </p>
 
