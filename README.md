@@ -8,3 +8,6 @@ I am a Computer Science Ph.D. student at the [University of Copenhagen](https://
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=_aM-ud8AAAAJ&hl=en)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-loeschcke/)
 - 🐦 [Twitter](https://twitter.com/sloeschcke)
+
+## My GitHub Stats
+![sebulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebulo&show_icons=true&theme=radical)
