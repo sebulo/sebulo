@@ -1,13 +1,22 @@
 # 👋 Hi, I’m @sebulo
 
-## About Me
-I am a Computer Science Ph.D. student at the [University of Copenhagen](https://di.ku.dk/) and the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/), advised by [Michael J. Kastoryano](https://mkastoryano.com/) and [Serge Belongie](https://sergebelongie.github.io/). My research focuses on Machine Learning and Computer Vision, with broader interests in efficient machine learning and quantization methods.
-
-- 🌍 [Website](https://sebulo.github.io/)
-- 📧 [Email](mailto:sebastianloeschcke@gmail.com)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=_aM-ud8AAAAJ&hl=en)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-loeschcke/)
-- 🐦 [Twitter](https://twitter.com/sloeschcke)
-
-## My GitHub Stats
-![sebulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebulo&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <h2>About Me</h2>
+      <p>I am a Computer Science Ph.D. student at the <a href="https://di.ku.dk/">University of Copenhagen</a> and the <a href="https://www.aicentre.dk/">Pioneer Centre for Artificial Intelligence</a>, advised by <a href="https://mkastoryano.com/">Michael J. Kastoryano</a> and <a href="https://sergebelongie.github.io/">Serge Belongie</a>. My research focuses on Machine Learning and Computer Vision, with broader interests in efficient machine learning and quantization methods.</p>
+      <ul>
+        <li>🌍 <a href="https://sebulo.github.io/">Website</a></li>
+        <li>📧 <a href="mailto:sebastianloeschcke@gmail.com">Email</a></li>
+        <li>🎓 <a href="https://scholar.google.com/citations?user=_aM-ud8AAAAJ&hl=en">Google Scholar</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/sebastian-loeschcke/">LinkedIn</a></li>
+        <li>🖥️ <a href="https://github.com/sebulo/">GitHub</a></li>
+        <li>🐦 <a href="https://twitter.com/sloeschcke">Twitter</a></li>
+      </ul>
+    </td>
+    <td>
+      <h2>My GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=sebulo&show_icons=true&theme=radical" alt="sebulo's GitHub stats">
+    </td>
+  </tr>
+</table>
