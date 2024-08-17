@@ -14,7 +14,7 @@
         🐦 <a href="https://twitter.com/sloeschcke">Twitter</a>
       </p>
     </td>
-    <td style="width: 60%; vertical-align: top;">
+    <td style="width: 100%; vertical-align: top;">
       <h2>My GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=sebulo&show_icons=true&theme=radical" alt="sebulo's GitHub stats">
     </td>
