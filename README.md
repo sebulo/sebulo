@@ -7,5 +7,4 @@ I am a Computer Science Ph.D. student at the [University of Copenhagen](https://
 - 📧 [Email](mailto:sebastianloeschcke@gmail.com)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=_aM-ud8AAAAJ&hl=en)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-loeschcke/)
-- 🖥️ [GitHub](https://github.com/sebulo/)
 - 🐦 [Twitter](https://twitter.com/sloeschcke)
