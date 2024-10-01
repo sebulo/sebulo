@@ -9,5 +9,4 @@ I am a Computer Science Ph.D. student at the [University of Copenhagen](https://
         🐦 <a href="https://twitter.com/sloeschcke">Twitter</a>
       </p>
 
-## My GitHub Stats
-![sebulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebulo&show_icons=true&theme=radical)
+
